@@ -2,6 +2,6 @@
 My name is Grqm. I am learning how to code.
 
 Some things you might want to know about me:
-- I am ~~human~~ a dragon.
+- I am ~~human~~ a robot.
 - I am male.
-- I am NaN years old.
+- I am 15 years old.
